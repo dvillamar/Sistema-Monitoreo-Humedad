@@ -42,7 +42,7 @@ int sensor4Value = 0;
 // float ValHum,ValTem = 0;
 
 
-#define RF_FREQUENCY                                433000000 // Hz
+#define RF_FREQUENCY                                915000000 // Hz
 
 #define TX_OUTPUT_POWER                             5        // dBm
 
